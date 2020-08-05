@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Houseplants</name>
+    <author>elkyelky</author>
+    <packageId>elkyelky.Houseplants</packageId>
+    <supportedVersions>
+      <li>1.1</li>
+	  <li>1.2</li>
+    </supportedVersions>
+    <description>Want to create a diverse indoor jungle for your colonists?
+
+Here are a variety of decorative pot plants for various locations around your base! Low light, mid light and high light. Gotta plant them all!
+
+Already done:
+
+Low light:
+
+ZZ Plant, also known as Zanzibar Gem or Zamiculcas zamiifolia. This is tuberous plant is beloved for its fronds of glossy leaflets.
+Cast Iron Plant, also known as Aspidistra elatior. This tropical-looking plant has broad lily-like leaves.
+Devils Ivy, also known as Golden Pothos or Epipremnum aureum. This vine can be trained up a post, and gets its name because it is known for staying green even in the dark.
+Peace Lily, also known as Spathiphyllum. This is a false lily with broad leaves and pretty white flowers.
+
+
+Planned:
+
+Mid light: 
+
+Dumbcane, also known as Dieffenbachia. As this plant grows out of its old leaves it forms impressive canes.
+Pancake Plant, also Money Plant or Pilea peperomioides. This has pretty disk-like leaves that are sadly neither pancakes or money.
+Spider Ivy, also known as Ribbon Plant or Chlorophytum comosum. This vine will send out runners that have itty bitty baby plants on the end of them that look like spiders.
+Snake Plant, also known as Sansevieria. This is a succulent that puts out thick pointed leaves with intriguing variegation.
+
+High light:
+
+Fiddle Leaf Fig, also known as Banjo Fig or Ficus lyrata. This lush tree is named after the shape of its leaves but sadly does not bear any fruit.
+Cheese Plant, also known as Monstera deliciosa. This vine is named after the natural holes in its huge fan-like leaves which resemble, but are not, sliced cheese.
+Polka Dot Plant, also known as Hypoestes phyllostachya. Named for the colorful splotchy dots on the masses of dark green leaves.
+Pink Quill Plant, also known as Wallisia cyanea. Named for its brightly colored flower buds that looks like a feather.
+
+
+github: https://github.com/meldra/rimworldmod-houseplants
+
+If you want to thank me with more than just words, hit up my ko-fi: https://ko-fi.com/elkyelky 
+
+    </description>
+</ModMetaData>

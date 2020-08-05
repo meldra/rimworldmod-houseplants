@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ThingDef ParentName="PlantBase">
+    <defName>Plant_Zzplant</defName>
+    <label>ZZ plant</label>
+    <description>Also known as Zanzibar Gem or Zamiculcas zamiifolia, this is tuberous plant is beloved for its fronds of glossy leaflets.</description>
+    <statBases>
+      <MaxHitPoints>185</MaxHitPoints>
+      <Beauty>20</Beauty>
+      <Nutrition>0.01</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Zzplant</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>900</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.1</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>14</growDays>
+      <lifespanDaysPerGrowDays>28</lifespanDaysPerGrowDays>
+      <visualSizeRange>1.25~1.25</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  
+  <ThingDef ParentName="PlantBase">
+    <defName>Plant_Castironplant</defName>
+    <label>Cast iron plant</label>
+    <description>Also known as Aspidistra elatior, this tropical-looking plant has broad lily-like leaves.</description>
+    <statBases>
+      <MaxHitPoints>185</MaxHitPoints>
+      <Beauty>20</Beauty>
+      <Nutrition>0.01</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Castironplant</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>900</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.1</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>14</growDays>
+      <lifespanDaysPerGrowDays>28</lifespanDaysPerGrowDays>
+      <visualSizeRange>1.25~1.25</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  
+  <ThingDef ParentName="PlantBase">
+    <defName>Plant_Devilsivy</defName>
+    <label>Devil's ivy</label>
+    <description>Also known as Golden Pothos or Epipremnum aureum. This vine can be trained up a post, and gets its name because it is known for staying green even in the dark.</description>
+    <statBases>
+      <MaxHitPoints>185</MaxHitPoints>
+      <Beauty>20</Beauty>
+      <Nutrition>0.01</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Devilsivy</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>900</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.1</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>14</growDays>
+      <lifespanDaysPerGrowDays>28</lifespanDaysPerGrowDays>
+      <visualSizeRange>1.25~1.25</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+    
+  <ThingDef ParentName="PlantBase">
+    <defName>Plant_Peacelily</defName>
+    <label>Peace lily</label>
+    <description>Also known as Spathiphyllum. This is a false lily with broad leaves and pretty white flowers.</description>
+    <statBases>
+      <MaxHitPoints>185</MaxHitPoints>
+      <Beauty>20</Beauty>
+      <Nutrition>0.01</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Peacelily</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>900</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.1</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>14</growDays>
+      <lifespanDaysPerGrowDays>28</lifespanDaysPerGrowDays>
+      <visualSizeRange>1.25~1.25</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+</Defs>
