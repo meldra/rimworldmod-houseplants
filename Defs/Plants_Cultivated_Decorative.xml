@@ -131,4 +131,268 @@
       <purpose>Beauty</purpose>
     </plant>
   </ThingDef>
+
+  <ThingDef ParentName="PlantBase">
+    <defName>Plant_Dumbcane</defName>
+    <label>Dumbcane</label>
+    <description>Also known as Dieffenbachia. As this plant grows out of its old leaves it forms impressive canes.</description>
+    <statBases>
+      <MaxHitPoints>185</MaxHitPoints>
+      <Beauty>20</Beauty>
+      <Nutrition>0.01</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Dumbcane</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>900</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>14</growDays>
+      <lifespanDaysPerGrowDays>28</lifespanDaysPerGrowDays>
+      <visualSizeRange>1.25~1.25</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+
+  <ThingDef ParentName="PlantBase">
+    <defName>Plant_Pancakeplant</defName>
+    <label>Pancake plant</label>
+    <description>Also known as Money Plant or Pilea peperomioides. This has pretty disk-like leaves that are sadly neither pancakes nor money.</description>
+    <statBases>
+      <MaxHitPoints>185</MaxHitPoints>
+      <Beauty>20</Beauty>
+      <Nutrition>0.01</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Pancakeplant</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>900</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>14</growDays>
+      <lifespanDaysPerGrowDays>28</lifespanDaysPerGrowDays>
+      <visualSizeRange>1.25~1.25</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  
+  <ThingDef ParentName="PlantBase">
+    <defName>Plant_Spiderivy</defName>
+    <label>Spider ivy</label>
+    <description>Also known as Ribbon Plant or Chlorophytum comosum. This vine will send out runners that have itty bitty baby plants on the end of them that look like spiders.</description>
+    <statBases>
+      <MaxHitPoints>185</MaxHitPoints>
+      <Beauty>20</Beauty>
+      <Nutrition>0.01</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Spiderivy</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>900</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>14</growDays>
+      <lifespanDaysPerGrowDays>28</lifespanDaysPerGrowDays>
+      <visualSizeRange>1.25~1.25</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  
+  <ThingDef ParentName="PlantBase">
+    <defName>Plant_Snakeplant</defName>
+    <label>Snake plant</label>
+    <description>Also known as Sansevieria. This is a succulent that puts out thick pointed leaves with intriguing variegation.</description>
+    <statBases>
+      <MaxHitPoints>185</MaxHitPoints>
+      <Beauty>20</Beauty>
+      <Nutrition>0.01</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Snakeplant</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>900</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>14</growDays>
+      <lifespanDaysPerGrowDays>28</lifespanDaysPerGrowDays>
+      <visualSizeRange>1.25~1.25</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+
+  <ThingDef ParentName="PlantBase">
+    <defName>Plant_Fiddleleaffig</defName>
+    <label>Fiddle leaf fig</label>
+    <description>Also known as Banjo Fig or Ficus lyrata. This lush tree is named after the shape of its leaves but sadly does not bear any music or fruit.</description>
+    <statBases>
+      <MaxHitPoints>185</MaxHitPoints>
+      <Beauty>20</Beauty>
+      <Nutrition>0.01</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Fiddleleaffig</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>900</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.5</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>14</growDays>
+      <lifespanDaysPerGrowDays>28</lifespanDaysPerGrowDays>
+      <visualSizeRange>1.25~1.25</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  
+  <ThingDef ParentName="PlantBase">
+    <defName>Plant_Cheeseplant</defName>
+    <label>Cheese plant</label>
+    <description>Also known as Monstera deliciosa. This vine is named after the natural holes in its huge fan-like leaves which resemble, but are not, sliced cheese.</description>
+    <statBases>
+      <MaxHitPoints>185</MaxHitPoints>
+      <Beauty>20</Beauty>
+      <Nutrition>0.01</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Cheeseplant</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>900</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.5</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>14</growDays>
+      <lifespanDaysPerGrowDays>28</lifespanDaysPerGrowDays>
+      <visualSizeRange>1.25~1.25</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  
+  <ThingDef ParentName="PlantBase">
+    <defName>Plant_Polkadotplant</defName>
+    <label>Polka dot plant</label>
+    <description>Also known as Hypoestes phyllostachya. Named for the colorful splotchy dots on the masses of dark green leaves.</description>
+    <statBases>
+      <MaxHitPoints>185</MaxHitPoints>
+      <Beauty>20</Beauty>
+      <Nutrition>0.01</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Polkadotplant</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>900</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.5</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>14</growDays>
+      <lifespanDaysPerGrowDays>28</lifespanDaysPerGrowDays>
+      <visualSizeRange>1.25~1.25</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  
+  <ThingDef ParentName="PlantBase">
+    <defName>Plant_Pinkquillplant</defName>
+    <label>Pink quill plant</label>
+    <description>Also known as Wallisia cyanea. Named for its brightly colored flower buds that looks like a feather.</description>
+    <statBases>
+      <MaxHitPoints>185</MaxHitPoints>
+      <Beauty>20</Beauty>
+      <Nutrition>0.01</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Pinkquillplant</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>900</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.5</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>14</growDays>
+      <lifespanDaysPerGrowDays>28</lifespanDaysPerGrowDays>
+      <visualSizeRange>1.25~1.25</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
 </Defs>
